@@ -1,0 +1,53 @@
+here i did simple univariate analysis on a simple data set.
+
+i did:
+
+
+# **Categorical Data Analysis:**
+
+# 1. **Countplot for 'Survived' column:**
+- This plot shows the number of passengers who survived and those who did not.
+- It helps to visualize the distribution of the target variable.
+
+# 2. **Value counts for 'Survived' column:**
+- This shows the number of passengers in each category (survived or not) numerically.
+- It provides a more precise count compared to the countplot.
+
+# 3. **Bar plot for 'Survived' value counts:**
+- This plot represents the value counts of the 'Survived' column as a bar chart.
+- It offers a clear comparison of the number of survivors and non-survivors.
+
+# 4. **Countplot for 'Pclass' column:**
+- This plot shows the number of passengers in each passenger class.
+- It helps to understand the distribution of passengers across different classes.
+
+# 5. **Pie chart for 'Pclass' value counts:**
+- This pie chart displays the proportion of passengers in each class.
+- It provides a visual representation of the class distribution.
+
+# 6. **Pie chart for 'Sex' value counts:**
+- This pie chart shows the proportion of male and female passengers.
+- It helps to visualize the gender distribution on the Titanic.
+
+# 7. **Countplot for 'Embarked' column:**
+- This plot shows the number of passengers who embarked from each port.
+- It helps to understand the distribution of passengers based on their embarkation port.
+
+# 8. **Pie chart for 'Embarked' value counts:**
+
+This pie chart displays the proportion of passengers who embarked from each port.
+- It offers a clear visual representation of the embarkation distribution.
+
+# **Numerical Data Analysis:**
+
+# 1. **Histogram for 'Age' column:**
+- This histogram shows the distribution of passenger ages.
+- It helps to visualize the central tendency, spread, and shape of the age distribution.
+
+# 2. **Distplot for 'Age' column:**
+- This plot combines a histogram and a kernel density estimation (KDE) plot for the 'Age' column.
+- It provides a more detailed visualization of the age distribution compared to a simple histogram.
+
+# 3. **Boxplot for 'Age' column:**
+- This plot shows the distribution of passenger ages along with the median, quartiles, and outliers.
+- It helps to identify any unusual values or outliers in the data.
